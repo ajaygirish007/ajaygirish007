@@ -14,7 +14,6 @@ Hello! I'm Ajay Girish, a passionate Java Fullstack Developer with a fresh persp
   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 - **Backend Technologies:** 
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - **Databases:** 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - **Version Control:** 
@@ -29,8 +28,8 @@ Hello! I'm Ajay Girish, a passionate Java Fullstack Developer with a fresh persp
 - B.E in Computer Science (CSE) - KSIT, 2024 
 
 ## Contact Me
-Feel free to reach out to me via email at mailto:ajaygirish72@gmail.com or connect with me on 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ajaygirish07/)). 
+Feel free to reach out to me via email at ajaygirish72@gmail.com or connect with me on 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaygirish07/).
 I'm always open to networking, collaboration, and discussing exciting opportunities!
 
 ## Additional Information
